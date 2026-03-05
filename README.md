@@ -31,7 +31,7 @@ Ejemplo de entrada:
 
 Ingrese la cadena: ab
 
-6. El programa indicará si la cadena es ACEPTADA o RECHAZADA según el autómata implementado.
+6. El programa indicará si la cadena es ACEPTADA o RECHAZADA según el estado en el que termine.
 
 # Explicación del algoritmo
 
