@@ -46,7 +46,7 @@ Durante la ejecución:
 - Si el símbolo leído es "a" o "b", el programa cambia al estado correspondiente según las reglas de transición.
 - Este proceso se repite hasta que se hayan leído todos los símbolos de la cadena.
 
-Al finalizar el procesamiento de la cadena, el programa verifica si el estado final corresponde a uno de los **estados de aceptación**.
+Al finalizar el procesamiento de la cadena, el programa verifica si el estado final corresponde a uno de los estados de aceptación.
 
 Si el estado final es 247, 68, 8 o 58, la cadena es aceptada.  
 En caso contrario, la cadena es rechazada.
