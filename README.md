@@ -4,11 +4,11 @@
 Windows 11
 
 ## Lenguaje de Programación
-Java (JDK 17 o superior)
+Java
 
 ## Herramientas Utilizadas
-- Java JDK
-- Visual Studio Code / IntelliJ IDEA (opcional)
+- Java 
+- Online GDB
 - Terminal o Símbolo del sistema
 
 # Instrucciones para ejecutar el programa
