@@ -1,3 +1,4 @@
+(Inglés)
 # Finite Automata Implementation
 
 ## Operating System
@@ -10,8 +11,6 @@ Java (JDK 17 or later)
 - Java JDK
 - Visual Studio Code / IntelliJ IDEA (optional)
 - Terminal or Command Prompt
-
----
 
 # How to Run the Program
 
@@ -35,8 +34,6 @@ Enter the string: ab
 
 6. The program will print whether the string is **ACCEPTED** or **REJECTED** according to the finite automaton.
 
----
-
 # Algorithm Explanation
 
 This program simulates a deterministic finite automaton (DFA).
@@ -55,11 +52,11 @@ After processing the entire string, the program checks if the final state belong
 If the final state is **247** or **58**, the string is accepted.  
 Otherwise, the string is rejected.
 
----
-
 # Author
 Student implementation for the course **Formal Languages – EAFIT University**.
 
+
+(Español)
 # Implementación de Autómata Finito
 
 ## Sistema Operativo
